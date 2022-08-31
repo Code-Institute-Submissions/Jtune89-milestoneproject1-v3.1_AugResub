@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    border:none;
+}
+body{
+    font-family: raleway;
+    color: rgb(67, 64, 64);
+}
+
+h1, h2{
+    font-family: raleway, tahoma;
+    text-align: left;
+    letter-spacing: 3px;
+    font-size: 50px;
+    color:rgb(67, 64, 64);
+}
+
+.logo{
+    float:left;
+    font-size: 400%;
+    padding-top:10px;
+    padding-left:30px;
+}
+
+nav ul{
+    font-size:250%;
+    float:right;
+    list-style-type: none;
+    margin-right:30px;
+}
+
+nav li{
+    display: inline-block;
+    margin:10px;
+}
+
+nav a{
+    text-decoration: none;
+    color:inherit;
+    line-height: 75px;
+}
+
+nav a:hover{
+    font-size: 150%;
+}
+
+.main-section{
+    height:700px;
+    width:100%;
+    overflow:hidden;
+}
+
+.front-image{
+    height: 700px;
+    width: 100%;
+    background: url('../images/mexico-beach.jpeg') no-repeat center center;
+    animation-name: main-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forward;
+}
+
+@keyframes main-zoom {
+    from {
+        transform: scale(1);
+    }
+    to{
+        transform:scale(1.05);
+    }
+}
+
+.cover-text, .cover-text h2{
+    text-align:center;
+    color: white;
+}
+
+.cover-text{
+font-size:130%;
+font-family: raleway, tahoma;
+text-transform: uppercase;
+letter-spacing: 3px;
+text-align: center;
+padding-top:200px;
+}
+
+footer{
+    height: 150px;
+}
+
+.socials{
+    text-align: center;
+}
+.socials li{
+    display:inline;
+}
+
+.socials i{
+    font-size: 250%;
+    margin: 0.2%;
+    padding:2%;
+    color:rgb(67, 64, 64);
+}
+
+/*content page specific css*/
+
+.content-image{
+    height: 700px;
+    width: 100%;
+    background: url('../images/mexico-main-copy.jpg') no-repeat center center;
+    animation-name: main-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forward;
+}
+
+.cover-text-content, .cover-text-content h2{
+    text-align:center;
+    color: rgb(67, 64, 64);
+}
+
+.cover-text-content{
+font-size:130%;
+font-family: raleway, tahoma;
+text-transform: uppercase;
+letter-spacing: 3px;
+text-align: center;
+padding-top:200px;
+}
+
+/*accom page specific css*/
+
+.accom-image{
+    height: 700px;
+    width: 100%;
+    background: url('../images/hotel.jpeg') no-repeat center center;
+    animation-name: main-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forward;
+}
+
+.cover-text-accom, .cover-text-accom h2{
+    text-align:center;
+    color: white;
+}
+
+.cover-text-accom{
+font-size:130%;
+font-family: raleway, tahoma;
+text-transform: uppercase;
+letter-spacing: 3px;
+text-align: center;
+padding-top:200px;
+}
+
+/*content box formats*/
+
+.content-box{
+    height:700px;
+}
+
+.left-box{
+    padding-top:30px;
+    width:33%;
+    float: left;
+}
+
+.right-box{
+    padding-top:30px;
+    width:33%;
+    float: right;
+}
