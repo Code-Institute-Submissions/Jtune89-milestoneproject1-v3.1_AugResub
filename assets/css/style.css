@@ -182,37 +182,40 @@ padding-top:200px;
 
 .center-box h2{
     color:black;
-    padding-top:75%;
+    padding-top:80%;
+    font-size: 75px;
 }
 
 .left-box h2{
     color:black;
-    padding-top:75%;
+    padding-top:80%;
+    font-size:75px;
 }
 
 .right-box h2{
-    color:rgb(0, 0, 0);
-    padding-top:75%;
+    color:black;
+    padding-top:80%;
+    font-size: 75px;
 }
 
 .center-box p{
-    color:white;
+    color:rgb(67, 64, 64)
     padding-top:0%;
-    background-color: black;
+    background-color: white;
     text-align:center;
 }
 
 .left-box p{
-    color:white;
+    color:rgb(67, 64, 64);
     padding-top:0%;
-    background-color: black;
+    background-color:white;
     text-align:center;
 }
 
 .right-box p{
-    color:white;
+    color:rgb(67, 64, 64)
     padding-top:0%;
-    background-color: black;
+    background-color: white;
     text-align:center;
 }
 
