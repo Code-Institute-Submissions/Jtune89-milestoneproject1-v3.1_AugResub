@@ -160,21 +160,59 @@ padding-top:200px;
 }
 
 .left-box{
-    padding-top:30px;
     width:33%;
     float: left;
-    background-color: rgb(183, 166, 166);
+    background: url('../images/food.jpeg') no-repeat center center;
+    height:600px;
 }
 
 .right-box{
-    padding-top:30px;
     width:33%;
     float: right;
-    background-color: rgb(183, 166, 166);
+    background: url('../images/sites.jpeg') no-repeat center center;
+    height:600px;
 }
 
 .center-box{
     width:33%;
     margin: 0 auto;
-    background-color: rgb(183, 166, 166);
+    background: url('../images/beaches.jpeg') no-repeat center center;
+    height:600px;
 }
+
+.center-box h2{
+    color:black;
+    padding-top:75%;
+}
+
+.left-box h2{
+    color:black;
+    padding-top:75%;
+}
+
+.right-box h2{
+    color:rgb(0, 0, 0);
+    padding-top:75%;
+}
+
+.center-box p{
+    color:white;
+    padding-top:0%;
+    background-color: black;
+    text-align:center;
+}
+
+.left-box p{
+    color:white;
+    padding-top:0%;
+    background-color: black;
+    text-align:center;
+}
+
+.right-box p{
+    color:white;
+    padding-top:0%;
+    background-color: black;
+    text-align:center;
+}
+
