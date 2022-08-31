@@ -302,3 +302,13 @@ letter-spacing: 3px;
 text-align: center;
 padding-top:200px;
 }
+
+.contact-us{
+    text-align: center;
+    font-size:25px;
+    background-color: grey;
+}
+
+button{
+    font-size: 15px;
+}
