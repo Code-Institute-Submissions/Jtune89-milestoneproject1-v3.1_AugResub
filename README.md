@@ -9,14 +9,15 @@ Having travelled to Mexico many times myself (and plan to retire there), tourism
 
 Am I responsive?
 
-XX Placeholder XX
+[image](https://user-images.githubusercontent.com/95533259/187650284-51c436f1-9dfa-456f-b2c3-c48d7c3c89a4.png)
+
 
 Testing:
 W3C validator:
 HTML - form section lacked a heading upon check - Corrected
 CSS - showed Forward as not a "animation-fill-mode" which it is - not corrected
 Lighthouse:
-![](images/lighthouse.png)
+<img width="741" alt="Screenshot 2022-08-31 at 10 32 35" src="https://user-images.githubusercontent.com/95533259/187650386-a70052b2-39dc-48da-833d-1fb61408aaac.png">
 
 Bugs:
 Mid-way through building this project, any update to CSS was not updating the browser view of the project.  Having googled this, I see this is a bug.  The original GitHub Repo for this project was: https://github.com/Jtune89/Milestone1_v.3.0
