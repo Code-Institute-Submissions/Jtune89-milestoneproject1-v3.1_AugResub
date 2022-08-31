@@ -8,6 +8,7 @@ accommodations, culture, history. The purpose is to encourage people to go on ho
 Having travelled to Mexico many times myself (and plan to retire there), tourism is essential to its economy and should be visited by as many people as possible.
 
 Am I responsive?
+Reflects that the site is usable and visible on multiple screensizes
 
 <img width="947" alt="Screenshot 2022-08-31 at 10 44 54" src="https://user-images.githubusercontent.com/95533259/187650512-4acb0b28-0079-40dd-97ec-a7652460bff8.png">
 
