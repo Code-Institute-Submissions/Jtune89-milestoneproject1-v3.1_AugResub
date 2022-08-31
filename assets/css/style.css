@@ -164,7 +164,7 @@ padding-top:200px;
     float: left;
     background: url('../images/food.jpeg') no-repeat center center;
     height:600px;
-    font-size:130%;
+    font-size:1.5vw;
 }
 
 .right-box-content{
@@ -172,7 +172,7 @@ padding-top:200px;
     float: right;
     background: url('../images/sites.jpeg') no-repeat center center;
     height:600px;
-    font-size:130%;
+    font-size:1.5vw;
 }
 
 .center-box-content{
@@ -180,7 +180,7 @@ padding-top:200px;
     margin: 0 auto;
     background: url('../images/beaches.jpeg') no-repeat center center;
     height:600px;
-    font-size:130%;
+    font-size:1.5vw;
 }
 
 .center-box-content h2{
@@ -227,6 +227,7 @@ padding-top:200px;
     float: left;
     background: url('../images/tijuana.jpeg') no-repeat center center;
     height:600px;
+    font-size:1.5vw;
 }
 
 .right-box-accom{
@@ -235,7 +236,7 @@ padding-top:200px;
     float: right;
     background: url('../images/mexicocity.jpeg') no-repeat center center;
     height:600px;
-    font-size:130%;
+    font-size:1.5vw;
 }
 
 .center-box-accom{
@@ -243,7 +244,7 @@ padding-top:200px;
     margin: 0 auto;
     background: url('../images/rivieramaya.jpeg') no-repeat center center;
     height:600px;
-    font-size:130%;
+    font-size:1.5vw;
 }
 
 .center-box-accom h2{
