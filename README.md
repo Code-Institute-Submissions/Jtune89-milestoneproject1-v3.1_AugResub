@@ -9,8 +9,7 @@ Having travelled to Mexico many times myself (and plan to retire there), tourism
 
 Am I responsive?
 
-[image](https://user-images.githubusercontent.com/95533259/187650284-51c436f1-9dfa-456f-b2c3-c48d7c3c89a4.png)
-
+<img width="947" alt="Screenshot 2022-08-31 at 10 44 54" src="https://user-images.githubusercontent.com/95533259/187650512-4acb0b28-0079-40dd-97ec-a7652460bff8.png">
 
 Testing:
 W3C validator:
