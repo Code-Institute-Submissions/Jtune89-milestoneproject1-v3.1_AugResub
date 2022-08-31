@@ -159,60 +159,121 @@ padding-top:200px;
     height:700px;
 }
 
-.left-box{
+.left-box-content{
     width:33%;
     float: left;
     background: url('../images/food.jpeg') no-repeat center center;
     height:600px;
 }
 
-.right-box{
+.right-box-content{
     width:33%;
     float: right;
     background: url('../images/sites.jpeg') no-repeat center center;
     height:600px;
 }
 
-.center-box{
+.center-box-content{
     width:33%;
     margin: 0 auto;
     background: url('../images/beaches.jpeg') no-repeat center center;
     height:600px;
 }
 
-.center-box h2{
+.center-box-content h2{
     color:black;
     padding-top:80%;
     font-size: 75px;
 }
 
-.left-box h2{
+.left-box-content h2{
     color:black;
     padding-top:80%;
     font-size:75px;
 }
 
-.right-box h2{
+.right-box-content h2{
     color:black;
     padding-top:80%;
     font-size: 75px;
 }
 
-.center-box p{
+.center-box-content p{
     color:rgb(67, 64, 64);
     padding-top:0%;
     background-color: white;
     text-align:center;
 }
 
-.left-box p{
+.left-box-content p{
     color:rgb(67, 64, 64);
     padding-top:0%;
     background-color:white;
     text-align:center;
 }
 
-.right-box p{
+.right-box-content p{
+    color:rgb(67, 64, 64);
+    padding-top:0%;
+    background-color: white;
+    text-align:center;
+}
+
+.left-box-accom{
+    width:33%;
+    float: left;
+    background: url('../images/tijuana.jpeg') no-repeat center center;
+    height:600px;
+}
+
+.right-box-accom{
+    width:33%;
+    margin:0 auto;
+    float: right;
+    background: url('../images/mexicocity.jpeg') no-repeat center center;
+    height:600px;
+}
+
+.center-box-accom{
+    width:33%;
+    margin: 0 auto;
+    background: url('../images/rivieramaya.jpeg') no-repeat center center;
+    height:600px;
+}
+
+.center-box-accom h2{
+    color:black;
+    padding-top:70%;
+    font-size: 75px;
+}
+
+.left-box-accom h2{
+    color:black;
+    padding-top:70%;
+    font-size:75px;
+}
+
+.right-box-accom h2{
+    color:black;
+    padding-top:70%;
+    font-size: 75px;
+}
+
+.center-box-accom p{
+    color:rgb(67, 64, 64);
+    padding-top:0%;
+    background-color: white;
+    text-align:center;
+}
+
+.left-box-accom p{
+    color:rgb(67, 64, 64);
+    padding-top:0%;
+    background-color:white;
+    text-align:center;
+}
+
+.right-box-accom p{
     color:rgb(67, 64, 64);
     padding-top:0%;
     background-color: white;
