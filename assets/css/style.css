@@ -280,3 +280,25 @@ padding-top:200px;
     text-align:center;
 }
 
+.contact-image{
+    height: 700px;
+    width: 100%;
+    background: url('../images/mexicocontact.jpeg') no-repeat center center;
+    animation-name: main-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forward;
+}
+
+.cover-text-contact, .cover-text-contact h2{
+    text-align:center;
+    color: white;
+}
+
+.cover-text-contact{
+font-size:130%;
+font-family: raleway, tahoma;
+text-transform: uppercase;
+letter-spacing: 3px;
+text-align: center;
+padding-top:200px;
+}
