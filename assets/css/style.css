@@ -164,7 +164,6 @@ padding-top:200px;
     float: left;
     background: url('../images/food.jpeg') no-repeat center center;
     height:600px;
-    font-size:1.5vw;
 }
 
 .right-box-content{
@@ -172,7 +171,6 @@ padding-top:200px;
     float: right;
     background: url('../images/sites.jpeg') no-repeat center center;
     height:600px;
-    font-size:1.5vw;
 }
 
 .center-box-content{
@@ -180,7 +178,6 @@ padding-top:200px;
     margin: 0 auto;
     background: url('../images/beaches.jpeg') no-repeat center center;
     height:600px;
-    font-size:1.5vw;
 }
 
 .center-box-content h2{
@@ -206,6 +203,7 @@ padding-top:200px;
     padding-top:0%;
     background-color: white;
     text-align:center;
+    font-size:130%;
 }
 
 .left-box-content p{
@@ -213,6 +211,7 @@ padding-top:200px;
     padding-top:0%;
     background-color:white;
     text-align:center;
+    font-size:130%;
 }
 
 .right-box-content p{
@@ -220,6 +219,7 @@ padding-top:200px;
     padding-top:0%;
     background-color: white;
     text-align:center;
+    font-size:130%;
 }
 
 .left-box-accom{
@@ -227,7 +227,6 @@ padding-top:200px;
     float: left;
     background: url('../images/tijuana.jpeg') no-repeat center center;
     height:600px;
-    font-size:1.5vw;
 }
 
 .right-box-accom{
@@ -236,7 +235,6 @@ padding-top:200px;
     float: right;
     background: url('../images/mexicocity.jpeg') no-repeat center center;
     height:600px;
-    font-size:1.5vw;
 }
 
 .center-box-accom{
@@ -244,7 +242,6 @@ padding-top:200px;
     margin: 0 auto;
     background: url('../images/rivieramaya.jpeg') no-repeat center center;
     height:600px;
-    font-size:1.5vw;
 }
 
 .center-box-accom h2{
@@ -270,6 +267,7 @@ padding-top:200px;
     padding-top:0%;
     background-color: white;
     text-align:center;
+    font-size:130%;
 }
 
 .left-box-accom p{
@@ -277,6 +275,7 @@ padding-top:200px;
     padding-top:0%;
     background-color:white;
     text-align:center;
+    font-size:130%;
 }
 
 .right-box-accom p{
@@ -284,6 +283,7 @@ padding-top:200px;
     padding-top:0%;
     background-color: white;
     text-align:center;
+    font-size:130%;
 }
 
 .contact-image{
@@ -321,4 +321,18 @@ button{
 
 .contact-head{
     text-align: center;
+}
+
+@media screen and (max-width:1200px){
+    .content-box{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+
+    }
+    .center-box-accom,.center-box-content,.left-box-accom,.left-box-content,.right-box-accom,.right-box-content, footer{
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
 }
